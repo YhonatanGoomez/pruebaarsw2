@@ -1,1 +1,1 @@
-# pruebaarsw2
+# Lab6-ARSW
